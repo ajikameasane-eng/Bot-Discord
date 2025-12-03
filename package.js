@@ -1,1 +1,9 @@
-
+{
+  "name": "discord-welcome-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.2"
+  }
+}
